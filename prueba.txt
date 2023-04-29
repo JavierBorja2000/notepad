@@ -1,0 +1,21 @@
+nombreCompleto = "Javier"
+saludo = "Hola"
+calificacion = 8.5
+nota = ""
+if calificacion < 6:
+    nota = "f"
+elif calificacion >= 6 and calificacion <= 8:
+    nota = "b"
+else:
+    nota = "a"
+
+
+
+
+
+
+
+
+
+
+
